@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"recipe.users"},{"v":{"$numberInt":"2"},"unique":true,"key":{"email":{"$numberInt":"1"}},"name":"email","background":false,"ns":"recipe.users"}],"uuid":"72c715656cf14f1cbd78d3b24746db1a","collectionName":"users"}

@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5f8474b252de3d2898c76e0f"
+  },
+  "title": "Air Fryer Chicken Thighs",
+  "description": "These juicy chicken thighs are done in under 30 minutes and the air fryer makes it so easy!",
+  "ingredients": "1. 4 inches skin-on, boneless chicken thighs\n2. 2 teaspoons of extra virgin olive oil\n3. 1 teaspoon smoked paprika",
+  "directions": "Preheat an air fryer to 400 degrees F (200 degrees C).\n\nPat chicken thighs dry with a paper towel and brush the skin-side of each piece with olive oil. Place chicken thighs, skin-side down, in a single layer on a plate.\n\nCombine smoked paprika, garlic powder, salt, and pepper in a bowl and sprinkle half the seasoning mixture evenly over the 4 chicken thighs. Turn thighs over and evenly sprinkle remaining seasoning mixture on top. Place chicken thighs in the air fryer basket in a single layer, skin-side up.\n\nCombine smoked paprika, garlic powder, salt, and pepper in a bowl ",
+  "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6551185.jpg&w=596&h=596&c=sc&poi=face&q=85",
+  "recipeNumber": "23220",
+  "user_id": {
+    "$oid": "5f8473da33140f4d7c1bd4f4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f84774d52de3d2898c76e10"
+  },
+  "title": "Ratatouille",
+  "description": "A nice French food",
+  "ingredients": "1. two eggplants\n2. roma tomatoes\n3. two yellow squashes",
+  "directions": "Preheat the oven for 375˚F (190˚C).\n\nSlice the eggplant, tomatoes, squash, and zucchini into approximately ¹⁄₁₆-inch (1-mm) rounds, then set aside.\n\nServe while hot as a main dish or side. ",
+  "picture": "https://d2lswn7b0fl4u2.cloudfront.net/photos/ratatouille.jpg",
+  "recipeNumber": "626407",
+  "user_id": {
+    "$oid": "5f8473da33140f4d7c1bd4f4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8477dd52de3d2898c76e12"
+  },
+  "title": "Falafel",
+  "description": "A ball full of taste",
+  "ingredients": "1. Chickpea\n2. onion\n3. Parsley\n4. Garlic",
+  "directions": "Soak your dried chickpeas. Overnight or for at least 8-12 hours. Note that the chickpeas will triple in size, so cover them with plenty of water. Then drain and rinse them.\n\nShape your falafel. You can do this by hand, with a cookie scoop (which is what I use) or a falafel scoop. Decide if you’d like round balls or flatter patty shapes. The flatter shapes are better if you plan to pan fry or bake. Any shape can be used for deep frying. Form all your falafel and place on a plate.",
+  "picture": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Falafel-10.jpg",
+  "recipeNumber": "790399",
+  "user_id": {
+    "$oid": "5f84778252de3d2898c76e11"
+  },
+  "__v": 0
+}]

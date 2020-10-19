@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "5f8473da33140f4d7c1bd4f4"
+  },
+  "recipes": [
+    {
+      "$oid": "5f8474b252de3d2898c76e0f"
+    },
+    {
+      "$oid": "5f84774d52de3d2898c76e10"
+    }
+  ],
+  "favorites": [],
+  "email": "john@gmail.com",
+  "password": "$2b$12$9ZO3QOmKoFIz5bHn5DqrP.cejLX1KyolxTnWq5HtBHCFZco/Ftc9W",
+  "name": "john",
+  "admin": false,
+  "createdAt": {
+    "$date": "2020-10-12T15:18:50.379Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f84778252de3d2898c76e11"
+  },
+  "recipes": [
+    {
+      "$oid": "5f8477dd52de3d2898c76e12"
+    }
+  ],
+  "favorites": [],
+  "email": "moshe@gmail.com",
+  "password": "$2b$12$Xl/g7TepcBT/dY41BrF/iOsiima489FNJ88Qhm2BIJIjsZu/wIrVq",
+  "name": "Moshe Moshiko",
+  "admin": false,
+  "createdAt": {
+    "$date": "2020-10-12T15:34:26.909Z"
+  },
+  "__v": 1
+}]
